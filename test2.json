@@ -1,0 +1,47 @@
+[
+    {
+     "item": "bed",
+     "price": 18,
+     "category": "Dormitory"
+    },
+    {
+     "item": "pot",
+     "price": 65,
+     "category": "Kitchen"
+    },
+    {
+     "item": "backpack",
+     "price": 105,
+     "category": "Dormitory"
+    },
+    {
+     "item": "soap",
+     "price": 15,
+     "category": "Bathroom"
+    },
+    {
+     "item": "spoon",
+     "price": 52,
+     "category": "Kitchen"
+    },
+    {
+     "item": "umbrella",
+     "price": 163,
+     "category": "Halway"
+    },
+    {
+     "item": "washing machine",
+     "price": 80,
+     "category": "Bathroom"
+    },
+    {
+     "item": "glasses",
+     "price": 25,
+     "category": "Kitchen"
+    },
+    {
+     "item": "car keys",
+     "price": 120,
+     "category": "Halway"
+    }
+   ]
